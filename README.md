@@ -1,0 +1,1 @@
+The Number Guessing Game is an interactive Java application where users try to guess a randomly generated number between 1 and 100, receiving immediate feedback if their guess is too high, too low, or correct. The game, which tracks the number of attempts, features an attractive and user-friendly graphical interface built with Java Swing.
